@@ -1,5 +1,4 @@
 import React from 'react';
-import logofooter from '@/images/logo-footer.png'
 
 const footerBg = '#191919';
 const gold = '#bfa46b';
